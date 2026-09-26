@@ -1,0 +1,32 @@
+{
+  "name": "js-study",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "dunder-proto": "^1.0.1",
+    "es-object-atoms": "^1.1.2",
+    "express": "^5.2.1",
+    "function-bind": "^1.1.2",
+    "get-proto": "^1.0.1",
+    "gopd": "^1.2.0",
+    "hasown": "^2.0.4",
+    "math-intrinsics": "^1.1.0",
+    "media-typer": "^1.1.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/doremococo/js-study.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/doremococo/js-study/issues"
+  },
+  "homepage": "https://github.com/doremococo/js-study#readme"
+}
